@@ -1,0 +1,11 @@
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\obj\Debug\netcoreapp3.1\Carimbo.csprojAssemblyReference.cache
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\obj\Debug\netcoreapp3.1\Carimbo.AssemblyInfoInputs.cache
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\obj\Debug\netcoreapp3.1\Carimbo.AssemblyInfo.cs
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\bin\Debug\netcoreapp3.1\Carimbo.exe
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\bin\Debug\netcoreapp3.1\Carimbo.deps.json
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\bin\Debug\netcoreapp3.1\Carimbo.runtimeconfig.json
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\bin\Debug\netcoreapp3.1\Carimbo.runtimeconfig.dev.json
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\bin\Debug\netcoreapp3.1\Carimbo.dll
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\bin\Debug\netcoreapp3.1\Carimbo.pdb
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\obj\Debug\netcoreapp3.1\Carimbo.dll
+C:\Users\breno\Source\Repos\Carimbo\Carimbo\obj\Debug\netcoreapp3.1\Carimbo.pdb
